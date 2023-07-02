@@ -1,0 +1,3 @@
+[submodule "my-repository"]
+	path = my-repository
+	url = https://github.com/ismail-benlaredj/my-repository-recoded.git
